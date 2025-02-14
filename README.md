@@ -15,7 +15,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd 3.5\ Secrets\ Project/
+  cd Secrets-Project/
 ```
 
 Install dependencies
